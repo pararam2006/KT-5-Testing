@@ -1,0 +1,6 @@
+'POST example'
+'https://petstore.swagger.io/v2/user/'
+200
+'OK'
+'{"code":200,"type":"unknown","message":"1"}'
+'**********'

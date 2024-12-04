@@ -1,0 +1,18 @@
+'POST example'
+'https://petstore.swagger.io/v2/store/order/'
+200
+'OK'
+'{"id":1,"petId":1,"quantity":1,"shipDate":"2024-10-14T18:30:00.000+0000","status":"placed","complete":true}'
+'**********'
+'GET example'
+'https://petstore.swagger.io/v2/store/order/1'
+200
+'OK'
+'{"id":1,"petId":1,"quantity":1,"shipDate":"2024-10-14T18:30:00.000+0000","status":"placed","complete":true}'
+'**********'
+'DELETE example'
+'https://petstore.swagger.io/v2/store/order/1'
+200
+'OK'
+'{"code":200,"type":"unknown","message":"1"}'
+'**********'

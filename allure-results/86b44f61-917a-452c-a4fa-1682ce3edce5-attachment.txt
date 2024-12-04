@@ -1,0 +1,12 @@
+'POST example'
+'https://petstore.swagger.io/v2/user/'
+200
+'OK'
+'{"code":200,"type":"unknown","message":"1"}'
+'**********'
+'GET example'
+'https://petstore.swagger.io/v2/user/danMark'
+200
+'OK'
+'{"id":1,"username":"danMark","firstName":"Dan","lastName":"Mark","email":"dan@example.com","password":"password","phone":"1234567890","userStatus":1}'
+'**********'
